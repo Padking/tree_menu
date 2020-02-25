@@ -14,6 +14,7 @@
 ### Использование и его результат
 
   Создать меню в приложении Django-admin:
+  
   ![f](https://github.com/Padking/tree_menu/blob/master/screenshots/create_menu.JPG)
 
 

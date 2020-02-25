@@ -30,7 +30,7 @@ class MenuItem(models.Model):
 				self.url = f"/{self.title}"
 			self.lvl = 0
 		if not self.parent and not self.menu:
-			raise ValidationError("<Здесь текст при исключении>")
+			raise ValidationError("Заполните поле 'parent' и/или 'menu'")
 		super().save()
 	# Организация вывода информации об экземпляре модели в более удобном виде
 	def __str__(self):
