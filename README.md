@@ -14,7 +14,7 @@
 ### Использование и его результат
 
   Создать меню в приложении Django-admin:
-  ![f]()
+  ![f](https://github.com/Padking/tree_menu/blob/master/screenshots/)
 
 
   Создать заголовок 0-го уровня (корень меню):
