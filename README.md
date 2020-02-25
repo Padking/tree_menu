@@ -14,20 +14,21 @@
 ### Использование и его результат
 
   Создать меню в приложении Django-admin:
-  ![f](https://github.com/Padking/tree_menu/blob/master/screenshots/)
+  ![f](https://github.com/Padking/tree_menu/blob/master/screenshots/create_menu.JPG)
 
 
   Создать заголовок 0-го уровня (корень меню):
-  ![s]()
+  ![s](https://github.com/Padking/tree_menu/blob/master/screenshots/create_root.jpg)
   
   Создать заголовки 1-го и других уровней (вложенность):
-  ![t]()
+  ![t](https://github.com/Padking/tree_menu/blob/master/screenshots/create_1st_section.jpg)
   
   Таблицы БД после создания должны выглядеть так:
-  ![f]()
+  ![f](https://github.com/Padking/tree_menu/blob/master/screenshots/DB_after_section.JPG)
+  ![fi](https://github.com/Padking/tree_menu/blob/master/screenshots/DB_after_menu.JPG)
   
   Получившиеся меню на странице:
-  ![fi]()
+  ![si](https://github.com/Padking/tree_menu/blob/master/screenshots/final_menu.JPG)
   
  
 ### Требования к окружению:
